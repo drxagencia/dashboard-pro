@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3.0 Omni-Chat",
+  "description": "A next-generation multimodal chat interface powered by Gemini 3.0 Flash and Pro models. Features real-time streaming, image understanding, and a sleek glassmorphic UI.",
+  "requestFramePermissions": []
+}
